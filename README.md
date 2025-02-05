@@ -56,6 +56,24 @@ Compile e inicie a simulação.
 
 Pressione o botão para ativar a sequência e acompanhe a transição dos LEDs.
 
+▶️ Instruções de Uso
+
+Inicie a simulação no Wokwi ou em um Raspberry Pi Pico real.
+
+Pressione o botão conectado ao GPIO 5.
+
+Os três LEDs acenderão simultaneamente.
+
+Após 3 segundos, o LED verde apagará.
+
+Após mais 3 segundos, o LED azul apagará.
+
+Após mais 3 segundos, o LED vermelho apagará.
+
+Somente após a sequência completa, o botão poderá ser pressionado novamente para reiniciar o ciclo.
+
+Se desejar modificar os tempos de ativação, edite o código-fonte ajustando os temporizadores.
+
 📂 Estrutura do Projeto
 
 ├── atividade2_leds.c   # Código principal em C
