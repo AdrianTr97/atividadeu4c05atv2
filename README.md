@@ -62,6 +62,7 @@ Pressione o botão para ativar a sequência e acompanhe a transição dos LEDs.
 ├── CMakeLists.txt      # Arquivo de configuração do CMake
 ├── diagram.json        # Definição dos componentes no Wokwi
 ├── README.md           # Documentação do projeto
+├──wokwi .toml # Arquivo Toml
 
 ⚠️ Observações
 
